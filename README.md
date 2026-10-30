@@ -65,8 +65,7 @@ The assignment is implemented and tested in **simulation**, using the provided G
 
 The package includes a robot model `mogi_bot.urdf` – a 2-wheel differential-drive robot that relies on a standard **diff-drive plugin**.
 
-The approach was also tested on a **physical ROSBot**, successfully achieving the expected behavior.  
-The real-robot implementation can be found in the `rosbot` branch, where some modifications were introduced to improve robustness in real-world conditions (e.g. perception noise and navigation accuracy).
+The system has been implemented and validated in simulation only. Deployment on a physical robot (e.g. ROSbot) has not been tested and is left as future work.
 
 ---
 
