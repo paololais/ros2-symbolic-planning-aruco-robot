@@ -209,16 +209,13 @@ ros2 run nav2_map_server map_saver_cli -f map_of_world
 ---
 # Demo videos
 ### Simulation
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/MoiHaN4X87o)
-
-### ROSbot
-Still not provided
+[![Watch the demo](https://img.youtube.com/vi/MoiHaN4X87o/0.jpg)](https://youtu.be/MoiHaN4X87o)
 
 ## Installation
 - Clone the package inside your ROS2 workspace src folder:
 ```bash
 cd ~/ros2_ws/src/
-git clone https://github.com/paololais/ERL_assignment2.git
+git clone https://github.com/paololais/ros2-symbolic-planning-aruco-robot.git
 ```
 
 - Build the package and source:
